@@ -1,0 +1,4 @@
+c:\users\阿杰\documents\visual studio 2010\Projects\NoteBook3\NoteBook3\bin\Debug\NoteBook3.exe
+c:\users\阿杰\documents\visual studio 2010\Projects\NoteBook3\NoteBook3\bin\Debug\NoteBook3.pdb
+c:\users\阿杰\documents\visual studio 2010\Projects\NoteBook3\NoteBook3\obj\x86\Debug\NoteBook3.exe
+c:\users\阿杰\documents\visual studio 2010\Projects\NoteBook3\NoteBook3\obj\x86\Debug\NoteBook3.pdb
