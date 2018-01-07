@@ -1,0 +1,4 @@
+c:\users\阿杰\documents\visual studio 2010\Projects\实验一\实验一\bin\Debug\实验一.exe
+c:\users\阿杰\documents\visual studio 2010\Projects\实验一\实验一\bin\Debug\实验一.pdb
+c:\users\阿杰\documents\visual studio 2010\Projects\实验一\实验一\obj\x86\Debug\实验一.exe
+c:\users\阿杰\documents\visual studio 2010\Projects\实验一\实验一\obj\x86\Debug\实验一.pdb
